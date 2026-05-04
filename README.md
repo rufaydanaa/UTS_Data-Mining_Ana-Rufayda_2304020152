@@ -102,6 +102,10 @@ Survived
 * 1 (high survival): 103
 * Mean: ~0.1156
 
+Variabel target (y_cluster_logic) dibentuk berdasarkan hasil clustering, 
+di mana setiap cluster dikategorikan berdasarkan rata-rata survival rate. 
+Pendekatan ini menunjukkan integrasi antara unsupervised learning (clustering) 
+dan supervised learning (klasifikasi).
 ---
 
 ### 🔹 5. Klasifikasi
@@ -146,6 +150,10 @@ Survived
 | Decision Tree     | 0.0000 | 0.0000 | 0.0000 | 1.0000   |
 | Random Forest     | 0.0002 | 0.0000 | 0.0022 | 0.999951 |
 
+Nilai R2 yang sangat tinggi (mendekati 1) menunjukkan bahwa model sangat 
+mampu memprediksi target. Namun, hal ini juga mengindikasikan bahwa target 
+(y_cluster_logic) sangat bergantung pada fitur yang digunakan, sehingga 
+kemungkinan terjadi overfitting atau target terlalu mudah diprediksi.
 ---
 
 ### 🔹 7. Perbandingan Model
