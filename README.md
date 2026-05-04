@@ -192,3 +192,4 @@ Survived
 Nama: Ana Rufayda
 NIM: 2304020152
 
+LINK GOGGLE COLAB: https://colab.research.google.com/drive/1Vn9Yguh96lMTy_c77nhrWdpxeDCP-dP-?usp=sharing 
