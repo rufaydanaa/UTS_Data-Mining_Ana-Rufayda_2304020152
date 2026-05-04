@@ -169,7 +169,7 @@ Survived
 * Target buatan (`y_cluster_logic`) sangat prediktif
 * Model klasifikasi dan regresi menunjukkan performa tinggi
 * Kombinasi metode menghasilkan analisis yang komprehensif
-
+* Model dengan akurasi tertinggi tidak selalu terbaik karena perlu mempertimbangkan overfitting dan kemampuan generalisasi
 ---
 
 ## 📂 Struktur File
