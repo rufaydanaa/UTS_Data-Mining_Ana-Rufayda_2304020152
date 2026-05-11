@@ -69,4 +69,4 @@ Variabel target adalah `quality`.
 👤 **Author**
 Nama: Ana Rufayda NIM: 2304020152
 
-LINK GOOGLE COLAB: https://colab.research.google.com/drive/1Vn9Yguh96lMTy_c77nhrWdpxeDCP-dP-?usp=sharing
+LINK GOOGLE COLAB: https://colab.research.google.com/drive/152FdVGdtyTH4gmkr7hT6zUFn_HuL_wO8?usp=sharing
