@@ -1,6 +1,7 @@
 📊 Wine Quality Prediction - Classification Task
 
 📌 **Deskripsi**
+
 Proyek ini bertujuan untuk memprediksi kualitas wine menggunakan berbagai fitur fisikokimia. Variabel target, 'quality', telah dibagi menjadi dua kategori: wine berkualitas rendah (0) dan wine berkualitas tinggi (1). Analisis dilakukan untuk membangun dan mengevaluasi model klasifikasi untuk tugas ini.
 
 🎯 **Tujuan**
@@ -12,6 +13,7 @@ Proyek ini bertujuan untuk memprediksi kualitas wine menggunakan berbagai fitur 
 *   Memprediksi kualitas wine pada data pengujian.
 
 📊 **Dataset**
+
 Dataset yang digunakan adalah Wine Quality, yang berisi informasi tentang berbagai atribut wine seperti:
 *   `fixed acidity`
 *   `volatile acidity`
